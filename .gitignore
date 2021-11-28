@@ -3,3 +3,6 @@
 /Data.zip
 /Mockup.pdf
 /Course_Project_Option_2.pdf
+.idea
+.DS_Store
+**.DS_Store
