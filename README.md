@@ -1,7 +1,7 @@
 # Mini Search Engine
 
 ## Demo Video
-https://youtu.be/yOZMOp4kHuM
+https://youtu.be/T9T8AGP7QUo
 
 ## Server setup
 Simply upload the app.py file into the bucket of your cluster
